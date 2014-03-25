@@ -350,7 +350,7 @@ class gsb_hook_xray_drupal7_core_hooks {
       'hook_watchdog',
       'hook_xmlrpc',
       'hook_xmlrpc_alter',
-	  );
+    );
     return $core_hooks;
   }
 }
