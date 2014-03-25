@@ -365,7 +365,7 @@ function gsb_hook_xray_form($form, &$form_state) {
     'hook_watchdog',
     'hook_xmlrpc',
     'hook_xmlrpc_alter',
-	);
+  );
 
   // get hook info - by hook name
   $results = array();
