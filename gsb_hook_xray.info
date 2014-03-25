@@ -3,3 +3,4 @@ core = 7.x
 package = GSB
 version = 7.x-1.0
 project = gsb_hook_xray
+files[] = gsb_hook_xray_drupal7_core_hooks.inc
