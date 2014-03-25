@@ -16,8 +16,8 @@ function gsb_hook_xray_menu() {
 
 function gsb_hook_xray_form($form, &$form_state) {
 
-	// list of Drupal 7 hooks
-	// https://api.drupal.org/api/drupal/includes%21module.inc/group/hooks/7
+  // list of Drupal 7 hooks
+  // https://api.drupal.org/api/drupal/includes%21module.inc/group/hooks/7
 
   $core_hooks = array(
     'hook_actions_delete',
