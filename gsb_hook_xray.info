@@ -1,0 +1,5 @@
+name = GSB Hook XRay
+core = 7.x
+package = GSB
+version = 7.x-1.0
+project = gsb_hook_xray
